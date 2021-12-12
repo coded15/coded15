@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @coded15
-- 👀 I’m interested in web development, coding, also I do CAD Modelling as a hobby.
-- 🌱 I’m currently learning wagtail and react
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Ichchha Gupta and I am Pizza Lover😋.
+- 👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.
+- 🌱 I’m currently learning JavaScript, wagtail and ReactJS.
+- 💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.
+- 📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:
+- LinkedIn: https://www.linkedin.com/in/ichchha-gupta-361b99204/
+- Twitter: https://twitter.com/IchchhaGupta7
+- Facebook: https://www.facebook.com/ichchha.gupta.543
+- Instagram: https://www.instagram.com/ichchha._.gupta/
+- 🤩 Always super excited to work on any awesome project 🤩.
 
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
