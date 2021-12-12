@@ -7,7 +7,7 @@
 - Twitter: https://twitter.com/IchchhaGupta7
 - Facebook: https://www.facebook.com/ichchha.gupta.543
 - Instagram: https://www.instagram.com/ichchha._.gupta/
-- 🤩 Always super excited to work on any awesome project 🤩.
+- 🤩 Always super excited to work on an awesome project 🤩.
 
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
