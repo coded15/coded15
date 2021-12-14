@@ -8,8 +8,7 @@
 - Facebook: https://www.facebook.com/ichchha.gupta.543
 - Instagram: https://www.instagram.com/ichchha._.gupta/
 - 🤩 Always super excited to work on an awesome project 🤩.
-- ![snake gif]
-- (https://github.com/coded15/coded15/blob/output/github-contribution-grid-snake.gif)
+- ![github-contribution-grid-snake](https://user-images.githubusercontent.com/91874598/145973043-75a8a1f8-8cf7-4791-a39c-0c6cf1290650.gif)
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
