@@ -3,12 +3,29 @@
 - 🌱 I’m currently learning JavaScript, wagtail and ReactJS.
 - 💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.
 - 📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:
- <a href="https://www.instagram.com/ichchha._.gupta/" rel="nofollow">
-    <img src="https://camo.githubusercontent.com/5c3f3164b340475c38f1ec3d8c6d0c6e8656fbccac25d06cfb86477079b88638/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e7374616772616d2d2532334534343035462e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/instagram-%23E4405F.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;">         </a> 
-- LinkedIn: https://www.linkedin.com/in/ichchha-gupta-361b99204/
-- Twitter: https://twitter.com/IchchhaGupta7
-- Facebook: https://www.facebook.com/ichchha.gupta.543
-- Instagram: https://www.instagram.com/ichchha._.gupta/
+<p align="center" dir="auto">
+  <a href="https://www.instagram.com/ichchha._.gupta/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    />
+  </a>
+  <a href="https://twitter.com/IchchhaGupta7" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+    />
+  </a>
+  <a href="https://www.facebook.com/ichchha.gupta.543" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/ichchha-gupta-361b99204/" rel="nofollow">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+    />
+  </a>
+</p>
+ 
 - 🤩 Always super excited to work on an awesome project 🤩.
 - ![github-contribution-grid-snake](https://user-images.githubusercontent.com/91874598/145973043-75a8a1f8-8cf7-4791-a39c-0c6cf1290650.gif)
 <!---
