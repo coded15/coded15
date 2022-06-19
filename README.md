@@ -7,6 +7,8 @@
   <li>💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.</li>
   <li>📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:</li>
 </ul>
+<!--- ########################################################### Social Handles ###############################################################--->
+
 <p align="center" dir="auto">
   <a href="https://www.instagram.com/ichchha._.gupta/" rel="nofollow">
     <img
@@ -29,10 +31,18 @@
     />
   </a>
 </p>
+<!--- ########################################################### Social Handles End ###############################################################--->
+
 <p align = "center"> 🤩 Always super excited to work on an awesome project 🤩.</p>
+<hr/>
+
+<!--- ########################################## Snake Section ###############################################################--->
 <div  align = "center">
+  <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
   <img src="https://github.com/coded15/coded15/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
 </div>
+<hr/>
+<!--- ########################################## Snake Section End ###############################################################--->
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
