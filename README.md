@@ -1,10 +1,12 @@
 <h1 align="center">👋 Hi, I’m Ichchha Gupta...</h1>
 <h3 align = "center">A Tech Geek</h3>
-- I am Pizza Lover😋.
-- 👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.
-- 🌱 I’m currently learning JavaScript, wagtail and ReactJS.
-- 💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.
-- 📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:
+<ul>
+  <li>I am Pizza Lover😋.</li>
+  <li>👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.</li>
+  <li>🌱 I’m currently learning JavaScript, wagtail and ReactJS.</li>
+  <li>💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.</li>
+  <li>📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:</li>
+</ul>
 <p align="center" dir="auto">
   <a href="https://www.instagram.com/ichchha._.gupta/" rel="nofollow">
     <img
