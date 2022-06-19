@@ -55,7 +55,7 @@
 
 <!--- ########################################################### Top Language Card ###############################################################--->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded15&theme=vision-friendly-dark)](https://github.com/coded15/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded15&theme=bear)](https://github.com/coded15/github-readme-stats)
 <hr/>
 
 <!--- ########################################################### Top Language Card End ###############################################################--->
