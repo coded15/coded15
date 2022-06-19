@@ -1,5 +1,10 @@
 <h1 align="center">👋 Hi, I’m Ichchha Gupta...</h1>
 <h3 align = "center">A Tech Geek</h3>
+<!--- ########################################################### Gitart Work ###############################################################--->
+<div align = "center">
+  <img src = "https://github.com/coded15/coded15/blob/main/gitartwork.svg" alt = "gitart-work" />
+</div>
+<!--- ########################################################### Gitart Work End###############################################################--->
 <ul>
   <li>I am Pizza Lover😋.</li>
   <li>👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.</li>
@@ -43,6 +48,7 @@
 </div>
 <hr/>
 <!--- ########################################## Snake Section End ###############################################################--->
+
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
