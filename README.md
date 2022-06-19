@@ -1,10 +1,13 @@
 <h1 align="center">👋 Hi, I’m Ichchha Gupta...</h1>
 <h3 align = "center">A Tech Geek</h3>
 <!--- ########################################################### Gitart Work ###############################################################--->
+
 <div align = "center">
   <img src = "https://github.com/coded15/coded15/blob/main/gitartwork.svg" alt = "gitart-work" />
 </div>
+
 <!--- ########################################################### Gitart Work End###############################################################--->
+
 <ul>
   <li>I am Pizza Lover😋.</li>
   <li>👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.</li>
@@ -12,6 +15,7 @@
   <li>💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.</li>
   <li>📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:</li>
 </ul>
+
 <!--- ########################################################### Social Handles ###############################################################--->
 
 <p align="center" dir="auto">
@@ -36,17 +40,34 @@
     />
   </a>
 </p>
+
 <!--- ########################################################### Social Handles End ###############################################################--->
 
 <p align = "center"> 🤩 Always super excited to work on an awesome project 🤩.</p>
 <hr/>
 
+<!--- ########################################################### GitHub Stats ###############################################################--->
+
+[![Tchchha's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded15&theme=vision-friendly-dark)](https://github.com/coded15/github-readme-stats)
+<hr/>
+
+<!--- ########################################################### GitHub Stats End ###############################################################--->
+
+<!--- ########################################################### Top Language Card ###############################################################--->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coded15&theme=vision-friendly-dark)](https://github.com/coded15/github-readme-stats)
+<hr/>
+
+<!--- ########################################################### Top Language Card End ###############################################################--->
+
 <!--- ########################################## Snake Section ###############################################################--->
+
 <div  align = "center">
   <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
   <img src="https://github.com/coded15/coded15/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
 </div>
 <hr/>
+
 <!--- ########################################## Snake Section End ###############################################################--->
 
 <!---
