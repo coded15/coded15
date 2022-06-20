@@ -13,7 +13,7 @@
   <li>👀 I’m interested in FullStack development, Competitive Programming, and CAD Modeling.</li>
   <li>🌱 I’m currently learning JavaScript, wagtail and ReactJS.</li>
   <li>💞️ I’m looking to collaborate on Backend projects especially the ones involving ReactJS🤩.</li>
-  <li>📫 You can rach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:</li>
+  <li>📫 You can reach me through LinkedIn, Twitter, Facebook and Instagram, the handles of them are given below:</li>
 </ul>
 
 <!--- ########################################################### Social Handles ###############################################################--->
