@@ -46,10 +46,6 @@
 <p align = "center"> 🤩 Always super excited to work on an awesome project 🤩.</p>
 <hr/>
 
-<!--- ########################################################### GitHub Stats ###############################################################--->
-
-[![Tchchha's GitHub stats](https://github-readme-stats.vercel.app/api?username=coded15&theme=vision-friendly-dark)](https://github.com/coded15/github-readme-stats)
-<hr/>
 
 <!--- ########################################################### GitHub Stats End ###############################################################--->
 
