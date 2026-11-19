@@ -56,15 +56,6 @@
 
 <!--- ########################################################### Top Language Card End ###############################################################--->
 
-<!--- ########################################## Snake Section ###############################################################--->
-
-<div  align = "center">
-  <p>Watch a snake 🐍 eating my GitHub contributions😯</p>
-  <img src="https://github.com/coded15/coded15/blob/output/github-contribution-grid-snake.svg" alt = "snake-svg"/>
-</div>
-<hr/>
-
-<!--- ########################################## Snake Section End ###############################################################--->
 
 <!---
 coded15/coded15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
